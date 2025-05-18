@@ -161,6 +161,7 @@ pandapodium-insights-hub/
 ├── airflow/                \# Airflow DAGs and related configurations
 │   ├── dags/
 │   └──...
+├── data/            \# data archives for EDA, sampling, and back ups
 ├── dbt/            \# dbt project for data transformations
 │   ├── models/
 │   ├── tests/
